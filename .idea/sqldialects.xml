@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/DAO/PhotoDao.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Servlet/NewPassword.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/connect/SaveDB.java" dialect="GenericSQL" />
+  </component>
+</project>
